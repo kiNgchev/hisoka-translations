@@ -1,0 +1,5 @@
+api_token_env: API_TOKEN
+project_id: 752277
+files:
+  - source: /en_US.properties
+    translation: /%locale_with_underscore%.properties
